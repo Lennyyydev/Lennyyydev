@@ -1,0 +1,2 @@
+# Das Build-Skript soll das Profil-Repo nicht als „Python“ kennzeichnen
+.source/** linguist-vendored
