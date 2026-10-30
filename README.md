@@ -1,7 +1,7 @@
-<a href="https://wild.best-minecraft-serverlist.com"><img src="assets/banner.svg" alt="hi, i'm lenny. building best-minecraft-serverlist.com" width="100%"></a>
+<a href="https://lennylee.dev"><img src="assets/banner.svg" alt="hi, i'm lenny. building best-minecraft-serverlist.com" width="100%"></a>
 
 <p>
-  <a href="https://wild.best-minecraft-serverlist.com"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://lennylee.dev"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://discord.com/users/183614659188883457"><img src="https://img.shields.io/badge/discord-000000?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://leoncgn.de"><img src="https://img.shields.io/badge/leoncgn.de-000000?style=flat-square&logo=safari&logoColor=white" alt="leoncgn.de"></a>
 </p>
