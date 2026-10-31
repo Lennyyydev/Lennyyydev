@@ -43,7 +43,7 @@ def backdrop(w, h, key):
 # ---------- Projekt-Karten ----------
 STATUS = {"live": ("#3ccf7a", "live"), "private": ("#a1a1aa", "private"), "dev": ("#3f7bd9", "in development")}
 PROJECTS = [
-    ("bmsl", "bmsl", "Best Minecraft Serverlist", "live",
+    ("bmsl", "bmsl-agent", "Best Minecraft Serverlist", "live",
      "german minecraft server list with votes, votifier, live player counts and dashboards for server teams.", "best-minecraft-serverlist.com ↗"),
     ("bmsl-agent", "bmsl-agent", "BMSL Agent", "live",
      "discord bot for the server list community: team alerts, tickets, role sync and slash commands.", "discord bot"),
@@ -51,10 +51,10 @@ PROJECTS = [
      "ticket bot for the wildmine discord. saves every ticket as a transcript, with stats for each supporter.", "discord bot"),
     ("wildmine-dashboard", "wildmine", "WildMine Admin Dashboard", "private",
      "staff dashboard with player records, punishments with evidence, team chat and fine-grained permissions.", "internal tool"),
-    ("portfolio", "portfolio", "lennylee.dev", "live",
+    ("portfolio", "dashboard", "lennylee.dev", "live",
      "my portfolio: projects, skills and github stats. hand-written, self-hosted, no framework.", "lennylee.dev ↗"),
     ("mission-control", "dashboard", "Mission Control", "private",
-     "my control center for all servers: status, logs and alerts through lenny's agent. passkey only.", "lk.lennylee.dev"),
+     "my control center for all servers: status, logs and alerts through lenny's agent. passkey only.", "internal tool"),
 ]
 W, H = 440, 158
 
@@ -89,7 +89,6 @@ LINKS = [
     ("lennylee", "lennylee.dev", GLOBE, True),
     ("discord", "discord", DISCORD, False),
     ("serverlist", "serverlist", BLOCK, False),
-    ("dashboard", "dashboard", SHIELD, False),
 ]
 
 

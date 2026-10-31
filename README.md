@@ -4,7 +4,6 @@
   <a href="https://lennylee.dev"><img src="assets/links/lennylee.svg" height="40" alt="lennylee.dev"></a>
   <a href="https://discord.com/users/183614659188883457"><img src="assets/links/discord.svg" height="40" alt="Discord"></a>
   <a href="https://best-minecraft-serverlist.com"><img src="assets/links/serverlist.svg" height="40" alt="Best Minecraft Serverlist"></a>
-  <a href="https://lk.lennylee.dev"><img src="assets/links/dashboard.svg" height="40" alt="Dashboard"></a>
 </p>
 
 i'm lenny, a developer from cologne. i build websites, dashboards and discord bots for minecraft servers and host all of it myself. everything about me lives on **[lennylee.dev](https://lennylee.dev)**.
@@ -17,7 +16,7 @@ i'm lenny, a developer from cologne. i build websites, dashboards and discord bo
   <img src="assets/cards/wildmine-bot.svg" width="49%" alt="WildMine Bot – ticket bot for the wildmine discord with transcripts and supporter stats. private.">
   <img src="assets/cards/wildmine-dashboard.svg" width="49%" alt="WildMine Admin Dashboard – staff dashboard with player records, punishments, team chat and permissions. private.">
   <a href="https://lennylee.dev"><img src="assets/cards/portfolio.svg" width="49%" alt="lennylee.dev – my portfolio with projects, skills and github stats. live."></a>
-  <a href="https://lk.lennylee.dev"><img src="assets/cards/mission-control.svg" width="49%" alt="Mission Control – my private control center for all servers. passkey only."></a>
+  <img src="assets/cards/mission-control.svg" width="49%" alt="Mission Control – my private control center for all servers. passkey only.">
 </p>
 
 ### Stack
