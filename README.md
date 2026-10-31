@@ -2,11 +2,12 @@
 
 <p>
   <a href="https://lennylee.dev"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://lk.lennylee.dev"><img src="https://img.shields.io/badge/dashboard-000000?style=flat-square&logo=letsencrypt&logoColor=white" alt="Dashboard"></a>
   <a href="https://discord.com/users/183614659188883457"><img src="https://img.shields.io/badge/discord-000000?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://leoncgn.de"><img src="https://img.shields.io/badge/leoncgn.de-000000?style=flat-square&logo=safari&logoColor=white" alt="leoncgn.de"></a>
 </p>
 
-i'm lenny, a developer from cologne. i build websites, dashboards and discord bots for minecraft servers and host all of it myself.
+i'm lenny, a developer from cologne. i build websites, dashboards and discord bots for minecraft servers and host all of it myself. everything about me and my projects lives on my portfolio: **[lennylee.dev](https://lennylee.dev)**.
 
 ### Currently building
 
@@ -22,6 +23,10 @@ i'm lenny, a developer from cologne. i build websites, dashboards and discord bo
   <tr>
     <td><img src="assets/bmsl-notify.png" width="40" height="40" alt=""></td>
     <td><b>BMSL Agent</b><br><sub>discord bot for the server list community. team alerts, tickets, role sync with the website and slash commands.</sub></td>
+  </tr>
+  <tr>
+    <td><img src="assets/lk-dashboard.png" width="40" height="40" alt=""></td>
+    <td><a href="https://lk.lennylee.dev"><b>lk.lennylee.dev</b></a><br><sub>my private control center for my servers. only i can sign in, with a passkey.</sub></td>
   </tr>
   <tr>
     <td><img src="assets/lennys-agent.png" width="40" height="40" alt=""></td>
