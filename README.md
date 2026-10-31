@@ -1,38 +1,24 @@
 <a href="https://lennylee.dev"><img src="assets/banner.svg" alt="hi, i'm lenny. building best-minecraft-serverlist.com" width="100%"></a>
 
 <p>
-  <a href="https://lennylee.dev"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://lk.lennylee.dev"><img src="https://img.shields.io/badge/dashboard-000000?style=flat-square&logo=letsencrypt&logoColor=white" alt="Dashboard"></a>
-  <a href="https://discord.com/users/183614659188883457"><img src="https://img.shields.io/badge/discord-000000?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://leoncgn.de"><img src="https://img.shields.io/badge/leoncgn.de-000000?style=flat-square&logo=safari&logoColor=white" alt="leoncgn.de"></a>
+  <a href="https://lennylee.dev"><img src="assets/links/lennylee.svg" height="40" alt="lennylee.dev"></a>
+  <a href="https://discord.com/users/183614659188883457"><img src="assets/links/discord.svg" height="40" alt="Discord"></a>
+  <a href="https://best-minecraft-serverlist.com"><img src="assets/links/serverlist.svg" height="40" alt="Best Minecraft Serverlist"></a>
+  <a href="https://lk.lennylee.dev"><img src="assets/links/dashboard.svg" height="40" alt="Dashboard"></a>
 </p>
 
-i'm lenny, a developer from cologne. i build websites, dashboards and discord bots for minecraft servers and host all of it myself. everything about me and my projects lives on my portfolio: **[lennylee.dev](https://lennylee.dev)**.
+i'm lenny, a developer from cologne. i build websites, dashboards and discord bots for minecraft servers and host all of it myself. everything about me lives on **[lennylee.dev](https://lennylee.dev)**.
 
 ### Currently building
 
-<table>
-  <tr>
-    <td width="56"><img src="assets/bmsl.png" width="40" height="40" alt=""></td>
-    <td><a href="https://best-minecraft-serverlist.com"><b>Best Minecraft Serverlist</b></a><br><sub>a german minecraft server list with votes, votifier, live player counts and dashboards for server teams.</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/wildmine.png" width="40" height="40" alt=""></td>
-    <td><b>WildMine</b><br><sub>staff dashboard with player records and punishments, plus a ticket bot that saves transcripts.</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/bmsl-notify.png" width="40" height="40" alt=""></td>
-    <td><b>BMSL Agent</b><br><sub>discord bot for the server list community. team alerts, tickets, role sync with the website and slash commands.</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/lk-dashboard.png" width="40" height="40" alt=""></td>
-    <td><a href="https://lk.lennylee.dev"><b>lk.lennylee.dev</b></a><br><sub>my private control center for my servers. only i can sign in, with a passkey.</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/lennys-agent.png" width="40" height="40" alt=""></td>
-    <td><b>Lenny's Agent</b><br><sub>my personal discord agent. dms me logins, failed sign-ins, ssh logins and outages from all my servers.</sub></td>
-  </tr>
-</table>
+<p>
+  <a href="https://best-minecraft-serverlist.com"><img src="assets/cards/bmsl.svg" width="49%" alt="Best Minecraft Serverlist – german minecraft server list with votes, votifier, live player counts and dashboards for server teams. live."></a>
+  <img src="assets/cards/bmsl-agent.svg" width="49%" alt="BMSL Agent – discord bot for the server list community: team alerts, tickets, role sync and slash commands. live.">
+  <img src="assets/cards/wildmine-bot.svg" width="49%" alt="WildMine Bot – ticket bot for the wildmine discord with transcripts and supporter stats. private.">
+  <img src="assets/cards/wildmine-dashboard.svg" width="49%" alt="WildMine Admin Dashboard – staff dashboard with player records, punishments, team chat and permissions. private.">
+  <a href="https://lennylee.dev"><img src="assets/cards/portfolio.svg" width="49%" alt="lennylee.dev – my portfolio with projects, skills and github stats. live."></a>
+  <a href="https://lk.lennylee.dev"><img src="assets/cards/mission-control.svg" width="49%" alt="Mission Control – my private control center for all servers. passkey only."></a>
+</p>
 
 ### Stack
 
