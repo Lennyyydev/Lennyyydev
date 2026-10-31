@@ -21,7 +21,11 @@ i'm lenny, a developer from cologne. i build websites, dashboards and discord bo
   </tr>
   <tr>
     <td><img src="assets/bmsl-notify.png" width="40" height="40" alt=""></td>
-    <td><b>bmsl-notify</b><br><sub>discord bot for the server list. posts new servers and votes and keeps roles in sync.</sub></td>
+    <td><b>BMSL-Notify</b><br><sub>discord bot "VotifierHub" for the server list community. team alerts, tickets, role sync with the website and slash commands.</sub></td>
+  </tr>
+  <tr>
+    <td><img src="assets/lennys-agent.png" width="40" height="40" alt=""></td>
+    <td><b>Lenny's Agent</b><br><sub>my personal discord agent. dms me logins, failed sign-ins, ssh logins and outages from all my servers.</sub></td>
   </tr>
 </table>
 
