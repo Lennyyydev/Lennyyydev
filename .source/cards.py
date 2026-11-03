@@ -41,7 +41,7 @@ def backdrop(w, h, key):
 
 
 # ---------- Projekt-Karten ----------
-STATUS = {"live": ("#3ccf7a", "live"), "private": ("#a1a1aa", "private"), "dev": ("#3f7bd9", "in development")}
+STATUS = {"live": ("#3ccf7a", "live"), "private": ("#a1a1aa", "private"), "dev": ("#3f7bd9", "in development"), "oss": ("#2d68c4", "open source")}
 PROJECTS = [
     ("bmsl", "bmsl", "Best Minecraft Serverlist", "live",
      "german minecraft server list with votes, votifier, live player counts and dashboards for server teams.", "best-minecraft-serverlist.com ↗"),
@@ -55,6 +55,8 @@ PROJECTS = [
      "my portfolio: projects, skills and github stats. hand-written, self-hosted, no framework.", "lennylee.dev ↗"),
     ("mission-control", "portfolio", "Mission Control", "private",
      "my control center for all servers: status, logs and alerts through lenny's agent. passkey only.", "internal tool"),
+    ("quietguard", "quietguard", "QuietGuard", "oss",
+     "tiny tray app i built because i was too loud at night. watches the mic and warns me before i wake anyone up.", "windows app ↗"),
 ]
 W, H = 440, 158
 

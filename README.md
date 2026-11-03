@@ -17,11 +17,12 @@ i'm lenny, a developer from cologne. i build websites, dashboards and discord bo
   <img src="assets/cards/wildmine-dashboard.svg?v=3" width="49%" alt="WildMine Admin Dashboard – staff dashboard with player records, punishments, team chat and permissions. private.">
   <a href="https://lennylee.dev"><img src="assets/cards/portfolio.svg?v=3" width="49%" alt="lennylee.dev – my portfolio with projects, skills and github stats. live."></a>
   <img src="assets/cards/mission-control.svg?v=3" width="49%" alt="Mission Control – my private control center for all servers. passkey only.">
+  <a href="https://github.com/Lennyyydev/QuietGuard"><img src="assets/cards/quietguard.svg?v=3" width="49%" alt="QuietGuard – tiny windows tray app that warns me when i get too loud at night. open source."></a>
 </p>
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,prisma,postgres,supabase,java,py,docker,nginx,linux,cloudflare,git,github,discordjs&perline=9" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Prisma, PostgreSQL, Supabase, Java, Python, Docker, nginx, Linux, Cloudflare, Git, GitHub, discord.js">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,prisma,postgres,supabase,cs,java,py,docker,nginx,linux,cloudflare,git,github,discordjs&perline=9" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Prisma, PostgreSQL, Supabase, C#, Java, Python, Docker, nginx, Linux, Cloudflare, Git, GitHub, discord.js">
 
 ### Activity
 
